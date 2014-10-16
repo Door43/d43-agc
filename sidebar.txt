@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[agc:home|Door43 (agc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-agc|d43-agc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-agc/archive/master.zip|d43-agc.zip]]
+
+**Recent Changes**
+{{changes>ns = agc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/agc|Ethnologue data]]
+
